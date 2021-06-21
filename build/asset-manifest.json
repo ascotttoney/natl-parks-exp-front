@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afcfe37a.chunk.css",
+    "main.js": "/static/js/main.eb5ef51b.chunk.js",
+    "main.js.map": "/static/js/main.eb5ef51b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.f3632a5e.chunk.css": "/static/css/2.f3632a5e.chunk.css",
+    "static/js/2.dc26b87e.chunk.js": "/static/js/2.dc26b87e.chunk.js",
+    "static/js/2.dc26b87e.chunk.js.map": "/static/js/2.dc26b87e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c9cee1bb9c8fc525a0d7a7fbd3729104.js": "/precache-manifest.c9cee1bb9c8fc525a0d7a7fbd3729104.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f3632a5e.chunk.css.map": "/static/css/2.f3632a5e.chunk.css.map",
+    "static/css/main.afcfe37a.chunk.css.map": "/static/css/main.afcfe37a.chunk.css.map",
+    "static/media/mod-4-project-logo.png": "/static/media/mod-4-project-logo.36b51036.png"
+  }
+}
