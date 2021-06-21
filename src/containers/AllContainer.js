@@ -17,7 +17,8 @@ import MyModal from '../components/MyModal';
 import Profile from './Profile';
 import Login from './Login';
 
-const URL = `http://localhost:3000/`;
+// const URL = `http://localhost:3000/`;
+const URL = `https://natl-park-exp-back.herokuapp.com/`;
 
 export default class AllContainer extends Component {
 	constructor(props) {
